@@ -1,3 +1,3 @@
-node  puppet.example.com {
+node 'puppet.example.com' {
   include role::puppetmaster
 }
