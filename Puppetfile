@@ -17,5 +17,5 @@ mod "profiles",
 mod "roles",
   :git => "https://github.com/gapotts/gpotts-roles.git"
 
-mod "iciinga2"
+mod "iciinga2",
   :git => "https://github.com/gapotts/puppet-icinga2.git"
