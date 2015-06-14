@@ -9,7 +9,7 @@ mod "puppetlabs/puppetdb"
 mod "puppetlabs/inifile"
 mod "puppetlabs/postgresql"
 mod "puppetlabs/firewall"
-mod "pupplabs/mysql"
+mod "puppetlabs/mysql"
 
 mod "profiles",
   :git => "https://github.com/gapotts/gpotts-profiles.git"
